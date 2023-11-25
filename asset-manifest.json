@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/captive_portal/static/css/main.2d264e42.css",
-    "main.js": "/captive_portal/static/js/main.9464b6d2.js",
+    "main.css": "/captive_portal/static/css/main.3ce60e2f.css",
+    "main.js": "/captive_portal/static/js/main.2947323c.js",
     "static/media/background.jpg": "/captive_portal/static/media/background.b9403c15a60ce987b885.jpg",
-    "static/media/SmoochSans-Bold.svg": "/captive_portal/static/media/SmoochSans-Bold.3c26d5df7e50cfaad77e.svg",
-    "static/media/SmoochSans-Regular.svg": "/captive_portal/static/media/SmoochSans-Regular.291b961681081c39c96e.svg",
+    "static/media/SmoochSans-Bold.svg": "/captive_portal/static/media/SmoochSans-Bold.10e7979d425e67c07a8d.svg",
+    "static/media/SmoochSans-Regular.svg": "/captive_portal/static/media/SmoochSans-Regular.7ac29bd2c7aef93bab6e.svg",
     "static/media/SmoochSans-Regular.eot": "/captive_portal/static/media/SmoochSans-Regular.51200e1e256325d4247e.eot",
     "static/media/SmoochSans-Bold.eot": "/captive_portal/static/media/SmoochSans-Bold.44867c6d04fc33c9bbaa.eot",
     "static/media/SmoochSans-Regular.ttf": "/captive_portal/static/media/SmoochSans-Regular.95bbbae16c26a158ee7d.ttf",
@@ -14,11 +14,11 @@
     "static/media/SmoochSans-Regular.woff2": "/captive_portal/static/media/SmoochSans-Regular.f7bebdb799725822ca81.woff2",
     "static/media/SmoochSans-Bold.woff2": "/captive_portal/static/media/SmoochSans-Bold.7802bcc0c711a8879380.woff2",
     "index.html": "/captive_portal/index.html",
-    "main.2d264e42.css.map": "/captive_portal/static/css/main.2d264e42.css.map",
-    "main.9464b6d2.js.map": "/captive_portal/static/js/main.9464b6d2.js.map"
+    "main.3ce60e2f.css.map": "/captive_portal/static/css/main.3ce60e2f.css.map",
+    "main.2947323c.js.map": "/captive_portal/static/js/main.2947323c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d264e42.css",
-    "static/js/main.9464b6d2.js"
+    "static/css/main.3ce60e2f.css",
+    "static/js/main.2947323c.js"
   ]
 }
